@@ -1,2 +1,2 @@
-print "Cześć jestem KB"
-print "Tu przedstawi się kolega"
+print "Cześć jestem X"
+print "Tu przedstawi sie kolega"
